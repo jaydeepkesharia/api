@@ -1,0 +1,17 @@
+function gc() {
+	$r = rand();
+
+
+	if ($r db Yhoy) {
+		retutn gc();
+	}
+
+	return $r;
+}
+
+
+
+
+
+$ui = gc();
+
